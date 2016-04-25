@@ -1,1 +1,83 @@
 /* CSS document*/
+ul li{
+	display:inline;
+	margin:5px 5px 5px 5px;
+}
+strong{
+	color:white;
+}
+a{
+	text-decoration:none;
+	color:gray;
+}
+a:hover{
+	text-decoration:underline;
+}
+#content{
+	margin:0 auto;
+	width:650px;
+}
+#user{
+	width:500px;
+	height:30px;
+	font-size:20px;
+}
+form div{
+	position:relative;
+	left:170px;
+}
+#img{
+	margin-left:10%;
+}
+#but{
+	margin-top:5px;
+}	
+
+.head{
+	height:50px;
+	width:200px;
+	margin-top:20px;
+	position:relative;
+	left:1400px;
+}
+.button{
+	height:100px;
+	width:200px;
+	border-radius:5px 5px 5px 5px;
+	background:#4169E1;
+	display:inline;
+}
+
+.search_mashine{
+	height:300px;
+	width: 600px;
+	margin:200px 300px 300px 550px;
+	
+}
+.footer{
+	padding:15px;
+	background:#DCDCDC;
+	border-top:1px solid #808080;
+    position:fixed;
+	left:0; bottom:0;
+    width:100%;	
+	overflow:visible;
+}
+.left{
+	width:400px;
+	position:relative;
+	left:20px;
+	top:10px;
+	text-align:left;
+	
+}
+.right{
+	position:relative;
+	width:300px;
+	left:1250px;
+	right:20px;
+	top:-10px;
+	text-align:right;
+	
+}
+
